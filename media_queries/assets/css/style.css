@@ -387,7 +387,7 @@ input[type=submit] {
 
 @media screen and (max-width: 980px) {
   body {
-    background-color: #333;
+    background-color: blue;
   }
 
   .wrapper {
@@ -408,7 +408,7 @@ input[type=submit] {
 
 @media screen and (max-width: 768px) {
   body {
-    background-color: #333;
+    background-color: red;
   }
 
   .wrapper {
@@ -429,7 +429,7 @@ input[type=submit] {
 
 @media screen and (max-width: 640px) {
   body {
-    background-color: #333;
+    background-color: green;
   }
 
   .wrapper {
